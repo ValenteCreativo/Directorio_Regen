@@ -1,5 +1,3 @@
-# Directorio_Regen
-
 # Directorio de Ecotecnias
 
 Este repositorio contiene una serie de herramientas y aplicaciones para crear un directorio de proveedores de ecotecnias y organizaciones en México y América Latina. El objetivo es facilitar la búsqueda de tecnologías regenerativas para la transformación de la vida urbana hacia un modelo más sostenible.

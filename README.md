@@ -7,7 +7,7 @@ Este repositorio contiene una serie de herramientas y aplicaciones para crear un
 ## Contenidos
 
 1. **`DatosScraper.py`**
-   - Script de web scraping en Python para extraer datos de un portal ambiental.
+   - Script de web scraping en Python para extraer datos del portal https://ecotec.unam.mx/ecoteca-inicio/directorio-organizaciones-ecotecnias .
    - Requiere las librerías `requests`, `beautifulsoup4` y `csv`.
    - **Imagen**: ![¡Script Procesando datos! ]<img width="1275" alt="ScrapingDatos" src="https://github.com/user-attachments/assets/893a283c-a1d5-4e1b-ba93-abb6ea79d009">
 
@@ -21,7 +21,7 @@ Este repositorio contiene una serie de herramientas y aplicaciones para crear un
 
 
 3. **`Directorio3D.py`**
-   - Visualización 3D de los datos utilizando Plotly.
+   - Visualización 3D (prueba) de los datos utilizando Plotly.
    - Requiere las librerías `dash`, `pandas` y `plotly`.
    - **Imagen**: ![Visualizador en 3D de datos del CSV]<img width="1415" alt="Ecotecnias3D" src="https://github.com/user-attachments/assets/75bca48e-bd2d-497b-a236-6ad952ef07da">
 

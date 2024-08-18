@@ -4,10 +4,12 @@
 
 Este repositorio contiene una serie de herramientas y aplicaciones para crear un directorio de proveedores de ecotecnias y organizaciones en México y América Latina. El objetivo es facilitar la búsqueda de tecnologías regenerativas para la transformación de la vida urbana hacia un modelo más sostenible.
 
+Esta iniciativa es parte del proyecto Urbanika [ https://urbanika.notion.site/Urbanika-304277770b0e418ea279548983c3c0db ] para crear una red nacional y regional de proveedores confiables de Ecotecnias. 
+
 ## Contenidos
 
 1. **`DatosScraper.py`**
-   - Script de web scraping en Python para extraer datos del portal https://ecotec.unam.mx/ecoteca-inicio/directorio-organizaciones-ecotecnias .
+   - Script de web scraping en Python para extraer datos del portal [https://ecotec.unam.mx/ecoteca-inicio/directorio-organizaciones-ecotecnias] .
    - Requiere las librerías `requests`, `beautifulsoup4` y `csv`.
    - **Imagen**: ![¡Script Procesando datos! ]<img width="1275" alt="ScrapingDatos" src="https://github.com/user-attachments/assets/893a283c-a1d5-4e1b-ba93-abb6ea79d009">
 

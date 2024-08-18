@@ -47,7 +47,7 @@ plotly
 Este proyecto está en sus primeras etapas y está destinado a ser una herramienta útil para la comunidad. Si tienes sugerencias o mejoras, no dudes en contribuir.
 
 ## Contacto
-Para más información, ¡mis correos están abiertos! geovalente@proton.me (mailto:geovalente@proton.me) .
+Para más información, ¡mis correos están abiertos! geovalente@proton.me .
 
 
 ## Nota: Este repositorio es parte de la misión de Urbanika para transformar las ciudades en comunidades regenerativas.
